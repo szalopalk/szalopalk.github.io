@@ -5,10 +5,23 @@ body {
 
 h1 {
   color: #8C271E;
-  text-align: left;
+  text-align: center;
+}
+
+h2 {
+  color: #8C271E;
+  text-align: center;
 }
 
 p {
   color: #271033;
-  font-size: 16px;
+  font-size: 20px;
+  text-align: justify;
+  padding: 30px;
+}
+
+.footer {
+  background-color: #FFE882;
+  text-align: center;
+  padding: 10px;
 }
