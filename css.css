@@ -12,6 +12,10 @@ h2 {
   color: #8C271E;
   text-align: center;
 }
+h3 {
+  color: #1E6155;
+  text-align: left;
+}
 
 p {
   color: #271033;
@@ -19,6 +23,12 @@ p {
   text-align: justify;
   padding: 30px;
 }
+ul.a{
+  list-style-type: circle;
+  color: #271033;
+}
+
+ul{color: #271033;}
 
 .footer {
   background-color: #FFE882;
