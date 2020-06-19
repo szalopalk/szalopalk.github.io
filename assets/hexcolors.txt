@@ -1,5 +1,4 @@
-8C271E brick red for titles & headers
-F5853F pale orange for icons and accents 
-FFE882 beige for background
-388697 mid tone blue for other accent colors and urls
+8C271E brick red for titles & headers 
+E6D39E beige for background
+1E6155 sea blue for other accent colors and urls
 271033 navy blue for main text body

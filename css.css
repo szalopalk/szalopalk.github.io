@@ -1,20 +1,27 @@
-
-body {
-  background-color: #FFE882;
-}
-
 h1 {
   color: #8C271E;
   text-align: center;
+  font-family: "Lucida Console", Monaco, monospace;
 }
 
 h2 {
-  color: #8C271E;
+  color: #1E6155;
   text-align: center;
+  font-family: "Lucida Console", Monaco, monospace;
 }
+
 h3 {
   color: #1E6155;
   text-align: left;
+  font-family: "Lucida Console", Monaco, monospace;
+}
+
+body {
+  background-color: #E6D39E;
+  color: #271033;
+  font-size: 20px;
+  text-align: justify;
+  padding: 30px;
 }
 
 p {
@@ -22,16 +29,27 @@ p {
   font-size: 20px;
   text-align: justify;
   padding: 30px;
+  
 }
+
 ul.a{
   list-style-type: circle;
   color: #271033;
+  
 }
 
-ul{color: #271033;}
+ul{
+  color: #271033;
+
+}
+
+div{
+  background-color: #E6D39E;
+}
 
 .footer {
-  background-color: #FFE882;
+  background-color: #E6D39E;
   text-align: center;
   padding: 10px;
+  font-family: "Lucida Console", Monaco, monospace;
 }
